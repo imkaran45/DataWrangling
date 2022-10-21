@@ -1,3 +1,3 @@
 # DataWrangling
 
-Contains all the notebooks, showing my knowledge in Data manipulation or data wranging.
+Contains all the notebooks, showing my knowledge in Data Wranging.
